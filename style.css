@@ -1,0 +1,19 @@
+.block-time {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.clock {
+    display: flex;
+    font-size: 40px;
+    margin-top: 150px;
+}
+
+.clock p {
+    margin: 0 5px;
+}
+
+.box {
+    padding:0 20px;
+}
